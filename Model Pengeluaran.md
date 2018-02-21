@@ -13,7 +13,7 @@
     <tr>
       <td>id_pengeluaran</td>
       <td>int</td>
-      <td>primary</td>
+      <td>primary, Auto Increment</td>
     </tr>
     <tr>
       <td>id_toko</td>
