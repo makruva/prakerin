@@ -1,4 +1,4 @@
-**Nama Tabel** : Pengeluaran
+**Nama Tabel** : pengeluaran
 
 **Struktur Tabel**
 <table>
