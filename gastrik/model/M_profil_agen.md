@@ -19,8 +19,8 @@
     </tr>
     <tr>
       <td>id_distributor</td>
-      <td>int</td>
-      <td></td>
+      <td>unsigned int</td>
+      <td>indeks</td>
       <td></td>
     </tr>
     <tr>
