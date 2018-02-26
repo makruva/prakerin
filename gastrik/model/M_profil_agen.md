@@ -96,7 +96,7 @@ Dengan mengacu tabel database di atas, buat model codeigniter di bawah ini:
 ```php
 /**
  * Fungsi untuk menysisipkan data baru
- * @param $data int
+ * @param $data array
  */
 function insert($data);
 
@@ -112,7 +112,7 @@ function detail($id_agen);
  * Fungsi untuk memperbarui detail profil agen
  * yang memiliki id_agen=$id_agen
  * @param $id_agen int
- * @return object or false
+ * @param $data array
  */
 function update($id_agen,$data);
 
@@ -120,7 +120,6 @@ function update($id_agen,$data);
  * Fungsi untuk menghapus baris profil agen
  * yang memiliki id_agen=$id_agen
  * @param $id_agen int
- * @return object or false
  */
 function delete($id_agen);
 ```
