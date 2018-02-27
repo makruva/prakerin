@@ -33,7 +33,7 @@
       <td>nama</td>
       <td>varchar(50)</td>
       <td></td>
-      <td>Nama lengkap Agen</td>
+      <td>Nama lengkap</td>
     </tr>
     <tr>
       <td>alamat</td>
