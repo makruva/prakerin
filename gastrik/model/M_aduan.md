@@ -59,7 +59,7 @@
       <td>status</td>
       <td>int(1)</td>
       <td></td>
-      <td>**0**: belum diproses; **1**: disetujui, **2**:ditolak, **3**:dihapus</td>
+      <td><b>0</b>: belum diproses; <b>1</b>: disetujui, <b>2</b>:ditolak, <b>3</b>:dihapus</td>
     </tr>
     <tr>
       <td>id_petugas</td>
