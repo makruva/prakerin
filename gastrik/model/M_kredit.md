@@ -40,7 +40,7 @@
   </tbody>
 </table>
 
-Berdasarkan tabel di atas dan tabel **penjualan**, buat model di bawah ini:
+Berdasarkan tabel di atas, buat model di bawah ini:
 ```php
 /**
  * Fungsi untuk menysisipkan data baru
