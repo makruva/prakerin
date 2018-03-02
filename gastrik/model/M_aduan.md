@@ -96,7 +96,7 @@ function insert($data);
  * Fungsi untuk menampilkan daftar aduan.
  *
  * @param $id_user int IF $id_user==null, tampilkan semua data
-                       ELSE tampilkan data berdasarkan $id_user
+ *                      ELSE tampilkan data berdasarkan $id_user
  *
  * @return object or false
  */
